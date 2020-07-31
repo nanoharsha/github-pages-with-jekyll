@@ -1,3 +1,5 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Hello World,
+This is sreeharsha who is undergoing a metamorphosis and is kind of shunning the world sometimes or sometimes accepting it with wide arms.
+Its been a tough phase and hope it will be over soon, and I will be able to move over to the next phase.
